@@ -1,1 +1,2 @@
 # Loan-Repayment-Prediction-Decision-Tree
+The project aims to build a predictive model using a Decision Tree algorithm to determine whether a loan applicant is likely to repay the loan or default based on various features and historical data. The project is relevant for banks, financial institutions, and lending platforms to assess the creditworthiness of potential borrowers and make informed lending decisions.

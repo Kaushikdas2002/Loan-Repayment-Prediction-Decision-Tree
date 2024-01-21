@@ -9,7 +9,7 @@ The predictive model is built using a decision tree algorithm, which is a popula
 ## Results
 The model's performance on the test set is as follows:
 
-Accuracy: 92.5%
-Precision: 93%
-Recall: 93%
-F1 Score: 93%
+Accuracy: 92.5%  
+Precision: 93%  
+Recall: 93%  
+F1 Score: 93%  
